@@ -1,0 +1,9 @@
+Diseña los siguientes programas:
+
+- Devuelve un mensaje con sobresaliente si la nota introducida está entre 9 y 10, notable si está entre 7 y 8, bien si está entre 6 y 7, suficiente si está entre 5 y 6 e insuficiente si está entre 0 y 5. Utiliza un switch. Solo para notas enteras.
+
+- Devuelve un mensaje con sobresaliente si la nota introducida está entre 9 y 10, notable si está entre 7 y 8, bien si está entre 6 y 7, suficiente si está entre 5 y 6 e insuficiente si está entre 0 y 5. Utiliza un else-if. Se pueden introducir notas con decimales.
+
+- Devuelve la tabla de multiplicar del número introducido, que debe ser un entero entre 1 y 9. La tabla mostrará los productos del número desde el 0 hasta el 10. Utiliza un for.
+
+- En los 3 programas los números deberán pedirse por teclado.
